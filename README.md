@@ -55,5 +55,4 @@ A conexão via MCP permitiu que o Copilot:
 
 - sugerisse código HTML/CSS
 
-
-Este projeto nasceu a partir de um evento da Rocketseat.
+> Este projeto nasceu a partir de um evento da Rocketseat. 
