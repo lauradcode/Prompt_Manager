@@ -1,40 +1,43 @@
-🧠 Prompt Manager
+<h1> 🧠 Prompt Manager </h1>
 
 Um gerenciador de prompts projetado para ajudar na organização pessoal e no armazenamento de prompts úteis para estudos, trabalho e tarefas do dia a dia.
 Com ele, você pode salvar, editar, copiar e visualizar prompts rapidamente, mantendo tudo bem estruturado em um único lugar.
 
-🚀 Funcionalidades
 
-✔️ Criar novos prompts
+<h3> 🚀 Funcionalidades </h3>
 
-✔️ Editar o título e conteúdo
+- Criar novos prompts
 
-✔️ Copiar prompt com um clique
+- Editar o título e conteúdo
 
-✔️ Excluir prompts
+- Copiar prompt com um clique
 
-✔️ Lista lateral de prompts organizada
+- Excluir prompts
 
-✔️ Interface moderna e responsiva
+- Lista lateral de prompts organizada
 
-✔️ Ideal para tarefas diárias, listas, ideias e anotações estratégicas
+- Interface moderna e responsiva
 
-
-Este projeto foi construído com:
-
-HTML5
-
-CSS3 
-
-JavaScript 
-
-GitHub Copilot + MCP (Model Context Protocol)
-
-Figma — design da interface
+- Ideal para tarefas diárias, listas, ideias e anotações estratégicas
 
 
 
-🤖 Como o MCP e o GitHub Copilot foram usados neste projeto
+<h3> Este projeto foi construído com: </h3>
+
+- HTML5
+
+- CSS3 
+
+- JavaScript 
+
+- GitHub Copilot + MCP (Model Context Protocol)
+
+- Figma — design da interface
+
+
+
+
+<h3> 🤖 Como o MCP e o GitHub Copilot foram usados neste projeto </h3>
 
 O projeto utilizou uma integração moderna entre:
 
