@@ -1,10 +1,9 @@
 <h1> 🧠 Prompt Manager </h1>
 
-Um gerenciador de prompts projetado para ajudar na organização pessoal e no armazenamento de prompts úteis para estudos, trabalho e tarefas do dia a dia.
-Com ele, você pode salvar, editar, copiar e visualizar prompts rapidamente, mantendo tudo bem estruturado em um único lugar.
+Gerenciador de prompts projetado para ajudar na organização e no armazenamento de prompts úteis para o dia a dia.
 
 
-<h3> 🚀 Funcionalidades </h3>
+<h3> 🚀 Objetivo </h3>
 
 - Criar novos prompts
 
